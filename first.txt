@@ -1,1 +1,1 @@
-application and version control using git and version control operations
+application and version control using git and version control operations.
