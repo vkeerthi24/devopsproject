@@ -1,0 +1,7 @@
+<html>
+  <head> DEVOPS PROJECT </head>
+    <body>
+      <h1>welcome to devopsproject</h1>
+    </body>
+</html>
+    
